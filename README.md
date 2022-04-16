@@ -9,5 +9,4 @@ at the same time.
 Locking, synchronization, and I'd say very non-robust nor convenient server implemenation in Java. If I had to do it again, I would probably
 leave the game implementation as is, but will change the server to spring. In addition, please view all the testing implemented under the testing folder, by this you will be able to see the different test-cases, edge-cases, I thought of while implementing the system.
 
-
-
+March 2020.
